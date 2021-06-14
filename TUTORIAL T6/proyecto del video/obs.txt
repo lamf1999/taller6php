@@ -1,0 +1,1 @@
+copiar carpeta tutorial en htdocs y restaurar base de datos
